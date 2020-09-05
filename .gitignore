@@ -1,0 +1,5 @@
+.idea
+.history
+__pycache__/
+*.pyc
+static
